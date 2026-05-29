@@ -1,15 +1,4 @@
 #EXTM3U
 
-#EXTINF:-1,Telefe
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/108795.m3u8
-
-#EXTINF:-2, America TV
-https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
-
-#EXTINF:-3, TV Publica
-https://g4.proy-hor.transport.edge-access.net:443/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_480p.m3u8
-
-#EXTINF:-4, El trece
-http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/108799
-
+#EXTINF:-1,TEST
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8

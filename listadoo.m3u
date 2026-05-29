@@ -1,6 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1,Telefe
+#KODIPROP:inputstream=inputstream.ffmpegdirect
 http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/108795
 
 #EXTINF:-2, America TV
